@@ -1,4 +1,3 @@
 # ia-ocr
-
-thomas il est tellement bo c'est le + for
+OCR project using AI and the MNIST database
 
